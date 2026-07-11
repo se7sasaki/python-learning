@@ -1,0 +1,7 @@
+name = input("名前を入力してください")
+print(name)
+age = input("年齢")
+print(type(age))
+print(f"こんにちは、{name}さん！来年は{age}歳ですね！")
+print(type(name))
+print(type(age))
